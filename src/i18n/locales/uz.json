@@ -1,0 +1,81 @@
+{
+  "welcome": {
+    "title": "Garant Bank'dan kredit",
+    "subtitle": "Kirish yoki ro'yxatdan o'tish uchun telefon raqamingizni kiriting",
+    "phoneLabel": "Telefon raqami",
+    "rememberMe": "Meni eslab qol",
+    "continue": "Davom etish",
+    "privacyNotice": "Davom etish tugmasini bosish orqali siz {{link}} rozilik bildirasiz",
+    "privacyLink": "Takliflar va maxfiylik siyosati"
+  },
+  "otp": {
+    "back": "Orqaga",
+    "title": "Telefon raqamini tasdiqlang",
+    "subtitle": "Biz yuborgan 6 xonali kodni kiriting",
+    "resend": "Qayta yuborish"
+  },
+  "identity": {
+    "back": "Orqaga",
+    "title": "Shaxsingizni tasdiqlang",
+    "subtitle": "Faqat kompaniya direktori identifikatsiyadan o'tishi mumkin",
+    "documentLabel": "Hujjat seriyasi va raqami",
+    "documentPlaceholder": "AA 0000000",
+    "dobLabel": "Tug'ilgan sana",
+    "dobPlaceholder": "Sanani tanlang",
+    "verifyButton": "MyID orqali tasdiqlash"
+  },
+  "verified": {
+    "title": "Shaxs tasdiqlandi",
+    "director": "Direktor",
+    "organization": "Tashkilot",
+    "inn": "INN",
+    "oked": "OKED",
+    "address": "Yuridik manzil",
+    "continue": "Davom etish"
+  },
+  "setPin": {
+    "back": "Orqaga",
+    "title": "PIN-kod o'rnating",
+    "subtitle": "Siz uni kirishda ishlatishingiz mumkin",
+    "createLabel": "PIN-kod yarating",
+    "confirmLabel": "PIN-kodni takrorlang",
+    "continue": "Davom etish"
+  },
+  "accountRequest": {
+    "title": "Hisob ochish uchun ariza",
+    "subtitle": "GarantBank'da kredit mablag'larini o'tkazish uchun tranzit hisobi kerak",
+    "monthlyService": "Oylik xizmat",
+    "accountOpening": "Hisob ochish",
+    "free": "Bepul",
+    "verifyButton": "ERI orqali tasdiqlash"
+  },
+  "accountOpened": {
+    "title": "Tranzit hisob ochildi",
+    "downloadButton": "Hisob ma'lumotlari",
+    "requestedAmount": "So'ralgan summa",
+    "depositAmount": "Garov summa 1%",
+    "depositNote": "Kredit olish uchun birjada 1% garov zarur"
+  },
+  "scoring": {
+    "title": "Sizning moliyaviy imkoniyatlaringizni baholayapmiz",
+    "subtitle": "Skoring tizimi ishlayapti, javobni kuting, odatda bu 2 daqiqadan ko'p vaqt olmaydi",
+    "progress": "{{percent}}%"
+  },
+  "approved": {
+    "title": "Sizga kredit tasdiqlandi",
+    "approvedAmount": "Tasdiqlangan summa",
+    "depositAmount": "Garov summa 1%",
+    "depositNote": "* Garov summa birja hisobidan yechib olinadi",
+    "termsButton": "Shartlar va jadval",
+    "getMoneyButton": "Pul olish",
+    "privacyNotice": "Davom etish tugmasini bosish orqali siz {{link}} rozilik bildirasiz",
+    "privacyLink": "Kredit taklifiga"
+  },
+  "success": {
+    "title": "Kredit olindi!",
+    "subtitle": "Pul allaqachon sizning birja hisobingizga o'tkazildi",
+    "creditAmount": "Kredit summasi",
+    "contractButton": "Kredit shartnomasi",
+    "returnButton": "Birjaga qaytish"
+  }
+}
