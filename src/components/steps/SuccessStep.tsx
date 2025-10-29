@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 import { FileText } from 'lucide-react';
 import { StepLayout } from '../StepLayout';
 import logoImage from '@/assets/logo.png';
-import moneyCaseImage from '@/assets/money-case.png';
+import moneyCaseImage from '@/assets/money-case-3d.png';
 
 export const SuccessStep = () => {
   const { t } = useTranslation();

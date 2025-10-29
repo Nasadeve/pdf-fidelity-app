@@ -1,0 +1,85 @@
+{
+  "welcome": {
+    "title": "Sign in to Garant Bank",
+    "subtitle": "Enter your phone number to continue",
+    "phoneLabel": "Phone number",
+    "phonePlaceholder": "+998 (__) ___-__-__",
+    "continueButton": "Continue",
+    "terms": "By continuing, you agree to the terms of use"
+  },
+  "otp": {
+    "title": "Enter verification code",
+    "subtitle": "We sent a code to",
+    "codeLabel": "Verification code",
+    "resend": "Resend code",
+    "continueButton": "Continue"
+  },
+  "identity": {
+    "title": "Identity verification",
+    "subtitle": "Enter your passport or ID card information",
+    "documentSeries": "Document series",
+    "documentNumber": "Document number",
+    "birthDate": "Date of birth",
+    "continueButton": "Continue"
+  },
+  "verified": {
+    "title": "Your data has been verified",
+    "director": "Director",
+    "organization": "Organization",
+    "inn": "Tax ID (INN)",
+    "oked": "OKED",
+    "address": "Address",
+    "continue": "Continue"
+  },
+  "setPin": {
+    "title": "Create PIN code",
+    "subtitle": "Create a 4-digit PIN code to protect your account",
+    "pinLabel": "PIN code",
+    "confirmLabel": "Confirm PIN code",
+    "continueButton": "Continue"
+  },
+  "accountRequest": {
+    "title": "Open an account in Garant Bank",
+    "subtitle": "We offer favorable terms for business accounts",
+    "monthlyService": "Monthly service fee",
+    "accountOpening": "Account opening fee",
+    "free": "Free",
+    "verifyButton": "Open account"
+  },
+  "accountOpened": {
+    "title": "Account successfully opened!",
+    "subtitle": "You can now apply for a loan",
+    "accountNumber": "Account number",
+    "balance": "Balance",
+    "currency": "Currency",
+    "uzs": "UZS",
+    "loanAmount": "Loan amount",
+    "loanTerm": "Loan term",
+    "months": "months",
+    "interestRate": "Interest rate",
+    "perYear": "per year",
+    "continueButton": "Apply for loan"
+  },
+  "scoring": {
+    "title": "Checking your credit history",
+    "subtitle": "This will only take a few moments. Please wait..."
+  },
+  "approved": {
+    "title": "Your loan has been approved!",
+    "subtitle": "Review the loan terms and sign the agreement",
+    "loanAmount": "Loan amount",
+    "loanTerm": "Loan term",
+    "months": "months",
+    "interestRate": "Interest rate",
+    "perYear": "per year",
+    "monthlyPayment": "Monthly payment",
+    "signButton": "Sign agreement"
+  },
+  "success": {
+    "title": "Loan successfully received!",
+    "subtitle": "The money has been transferred to your account",
+    "creditAmount": "Loan amount",
+    "contractButton": "View agreement",
+    "returnButton": "Return to main page"
+  }
+}

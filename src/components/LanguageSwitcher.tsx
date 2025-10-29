@@ -9,7 +9,7 @@ import {
 
 const languages = [
   { code: 'uz', label: 'UZ', flag: '🇺🇿' },
-  { code: 'ru', label: 'RU', flag: '🇷🇺' },
+  { code: 'en', label: 'EN', flag: '🇬🇧' },
 ];
 
 export const LanguageSwitcher = () => {
