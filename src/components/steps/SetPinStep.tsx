@@ -56,12 +56,15 @@ export const SetPinStep = ({ onNext, onBack }: SetPinStepProps) => {
             <ChevronLeft className="h-5 w-5" />
             <span>{t('setPin.back')}</span>
           </button>
+<<<<<<< HEAD
 
           <div className="flex justify-end mb-8">
             <div className="w-12 h-12 rounded-full bg-[#E89B9B] flex items-center justify-center text-white font-semibold text-lg">
               US
             </div>
           </div>
+=======
+>>>>>>> 4bca845 (Initial commit yoki kerakli commit mersi)
           
           <h1 className="text-3xl font-bold mb-3 text-center text-foreground">
             {t('setPin.title')}

@@ -4,7 +4,11 @@ import { ChevronLeft, Clock } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { StepLayout } from '../StepLayout';
 import { PersonImage } from '../PersonImage';
+<<<<<<< HEAD
 import logoImage from '@/assets/logo.png';
+=======
+import logoImage from '@/assets/garant_logo.png';
+>>>>>>> 4bca845 (Initial commit yoki kerakli commit mersi)
 
 interface OtpStepProps {
   onNext: () => void;

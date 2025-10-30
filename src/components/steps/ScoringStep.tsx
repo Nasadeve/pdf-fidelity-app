@@ -2,7 +2,11 @@ import { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { StepLayout } from '../StepLayout';
 import { Progress } from '@/components/ui/progress';
+<<<<<<< HEAD
 import logoImage from '@/assets/logo.png';
+=======
+import logoImage from '@/assets/garant_logo.png';
+>>>>>>> 4bca845 (Initial commit yoki kerakli commit mersi)
 
 interface ScoringStepProps {
   onNext: () => void;
@@ -31,11 +35,14 @@ export const ScoringStep = ({ onNext }: ScoringStepProps) => {
     <StepLayout>
       <div className="flex justify-center items-center min-h-[calc(100vh-4rem)]">
         <div className="flex flex-col max-w-2xl mx-auto w-full text-center">
+<<<<<<< HEAD
           <div className="flex justify-end mb-8">
             <div className="w-12 h-12 rounded-full bg-[#E89B9B] flex items-center justify-center text-white font-semibold text-lg ml-auto">
               US
             </div>
           </div>
+=======
+>>>>>>> 4bca845 (Initial commit yoki kerakli commit mersi)
 
           <div className="flex justify-center mb-12">
             <img src={logoImage} alt="Garant Bank" className="w-20 h-20" />

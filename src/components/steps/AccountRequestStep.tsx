@@ -13,11 +13,14 @@ export const AccountRequestStep = ({ onNext }: AccountRequestStepProps) => {
     <StepLayout>
       <div className="flex justify-center items-center min-h-[calc(100vh-4rem)]">
         <div className="flex flex-col max-w-2xl mx-auto w-full">
+<<<<<<< HEAD
           <div className="flex justify-end mb-8">
             <div className="w-12 h-12 rounded-full bg-[#E89B9B] flex items-center justify-center text-white font-semibold text-lg">
               US
             </div>
           </div>
+=======
+>>>>>>> 4bca845 (Initial commit yoki kerakli commit mersi)
 
           <h1 className="text-3xl font-bold mb-3 text-center text-foreground">
             {t('accountRequest.title')}
