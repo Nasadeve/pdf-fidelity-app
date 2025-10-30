@@ -77,7 +77,9 @@ export const WelcomeStep = ({ onNext }: WelcomeStepProps) => {
           </div>
         </div>
 
-        <PersonImage />
+        <div className="hidden lg:block">
+          <PersonImage />
+        </div>
       </div>
     </StepLayout>
   );

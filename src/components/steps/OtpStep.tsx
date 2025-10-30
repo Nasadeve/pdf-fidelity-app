@@ -99,7 +99,9 @@ export const OtpStep = ({ onNext, onBack }: OtpStepProps) => {
           </div>
         </div>
 
-        <PersonImage />
+        <div className="hidden lg:block">
+          <PersonImage />
+        </div>
       </div>
     </StepLayout>
   );
