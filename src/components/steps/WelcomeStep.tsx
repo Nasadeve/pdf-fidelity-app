@@ -5,11 +5,7 @@ import { Input } from '@/components/ui/input';
 import { Checkbox } from '@/components/ui/checkbox';
 import { StepLayout } from '../StepLayout';
 import { PersonImage } from '../PersonImage';
-<<<<<<< HEAD
-import logoImage from '@/assets/logo.png';
-=======
 import logoImage from '@/assets/garant_logo.png';
->>>>>>> 4bca845 (Initial commit yoki kerakli commit mersi)
 
 interface WelcomeStepProps {
   onNext: () => void;
@@ -24,11 +20,7 @@ export const WelcomeStep = ({ onNext }: WelcomeStepProps) => {
     <StepLayout>
       <div className="grid lg:grid-cols-2 gap-12 items-center min-h-[calc(100vh-4rem)]">
         <div className="flex flex-col justify-center max-w-md mx-auto w-full">
-<<<<<<< HEAD
           <img src={logoImage} alt="Garant Bank" className="w-16 h-16 mb-8" />
-=======
-            <img src={logoImage} alt="Garant Bank" className="w-16 h-16 mb-8"/>
->>>>>>> 4bca845 (Initial commit yoki kerakli commit mersi)
           
           <h1 className="text-3xl font-bold mb-3 text-foreground">
             {t('welcome.title')}

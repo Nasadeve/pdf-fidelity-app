@@ -2,11 +2,7 @@ import { useTranslation } from 'react-i18next';
 import { Button } from '@/components/ui/button';
 import { FileText } from 'lucide-react';
 import { StepLayout } from '../StepLayout';
-<<<<<<< HEAD
-import logoImage from '@/assets/logo.png';
-=======
 import logoImage from '@/assets/garant_logo.png';
->>>>>>> 4bca845 (Initial commit yoki kerakli commit mersi)
 import moneyCaseImage from '@/assets/money-case-3d.png';
 
 export const SuccessStep = () => {
