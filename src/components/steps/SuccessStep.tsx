@@ -47,7 +47,7 @@ export const SuccessStep = () => {
           </div>
         </div>
 
-        <div className="flex-1 flex items-center justify-center">
+        <div className="hidden lg:block flex-1 flex items-center justify-center">
           <img 
             src={moneyCaseImage} 
             alt="Money case with coins" 
